@@ -1,0 +1,9 @@
+[submodule "OOP/oops"]
+	path = OOP/oops
+	url = https://github.com/DY-Patil-RAIT/oops.git
+[submodule "DBMS/dbms"]
+	path = DBMS/dbms
+	url = https://github.com/DY-Patil-RAIT/dbms.git
+[submodule "SBL/sbl"]
+	path = SBL/sbl
+	url = https://github.com/DY-Patil-RAIT/sbl.git
